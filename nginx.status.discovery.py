@@ -15,3 +15,4 @@ for i in r:
 print json.dumps({'data':status},sort_keys=True,indent=4,separators=(',',':'))
 print "danhanwen"
 print "hello"
+print "world"
