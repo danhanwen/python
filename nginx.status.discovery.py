@@ -13,3 +13,4 @@ status = [ ]
 for i in r:
 	status.append({'#NGINXSTATUS':i})
 print json.dumps({'data':status},sort_keys=True,indent=4,separators=(',',':'))
+print "danhanwen"
